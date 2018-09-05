@@ -1,0 +1,43 @@
+body{
+	margin: 4em;
+}
+h1{
+	color: turquoise;
+	font-size: 5em;
+	font-family: Georgia;
+}
+.Venkman{
+	color: pink;
+	font-size: 1.5em;
+	font-family: Georgia;
+	font-weight: normal;
+}
+.Barnett{
+	color: red;
+	font-size: 1.5em;
+	font-family: Georgia;
+	font-weight: normal;
+}
+.Mayor{
+	color: blue;
+	font-size: 1.5em;
+	font-family: Georgia;
+	font-weight: normal;
+}
+.Stantz{
+	color: purple;
+	font-size: 1.5em;
+	font-family: Georgia;
+	font-weight: normal;
+}
+.Zeddemore{
+	color: green;
+	font-size: 1.5em;
+	font-family: Georgia;
+	font-weight: normal;
+}
+.Action{
+	color: black;
+	font-size: 1.5em;
+	font-family: Georgia;
+	font-weight: bold;
