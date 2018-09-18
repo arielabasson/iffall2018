@@ -1,0 +1,72 @@
+html{
+	font-size: 16pt;
+}
+body{
+	color: #444444;
+	font-family: 'Open Sans', sans-serif;
+}
+.normal{
+	color: #444444;
+	font-family: 'Open Sans', sans-serif;
+}
+.attribute-title{
+	color: #444444;
+	font-family: Arial;
+	font-size: 2em;
+	font-weight: bolder;
+}
+.attribute-status{
+	color: #444444;
+	font-family: Arial;
+	font-size: .5em;
+}
+.font-weight{
+	color: #444444;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: bold;
+}
+.font-style{
+	color: #444444;
+	font-family: 'Open Sans', sans-serif;
+	font-style: italic;
+}
+.letter-spacing-big{
+	color: #444444;
+	font-family: 'Open Sans', sans-serif;
+	letter-spacing: .3em;
+}
+.letter-spacing-small{
+	color: #444444;
+	font-family: 'Open Sans', sans-serif;
+	letter-spacing: -.06em;
+}
+.underline{
+	color: #444444;
+	font-family: 'Open Sans', sans-serif;
+	text-decoration: underline;
+}
+.line-through{
+	color: #444444;
+	font-family: 'Open Sans', sans-serif;
+	text-decoration: line-through;
+}
+.overline{
+	color: #444444;
+	font-family: 'Open Sans', sans-serif;
+	text-decoration: overline;
+}
+.uppercase{
+	color: #444444;
+	font-family: 'Open Sans', sans-serif;
+	text-transform: uppercase;
+}
+.lowercase{
+	color: #444444;
+	font-family: 'Open Sans', sans-serif;
+	text-transform: lowercase;
+}
+.capitalize{
+	color: #444444;
+	font-family: 'Open Sans', sans-serif;
+	text-transform: capitalize;
+}
