@@ -1,0 +1,48 @@
+body{
+	background-color: #591F06;
+}
+.maintitle{
+	background-image: url(images/brownies.jpg);
+	background-repeat: no-repeat;
+    background-position: center; 
+	font-family: 'Open Sans', sans-serif;
+	font-size: 36px;
+	margin-top:40px;
+	text-align: center;
+	color: #FBC7EC;
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-bottom: 60px;
+	padding-top: 60px;
+	display: block;
+	font-family: 'Concert One', cursive;
+	text-shadow: -1px 0px 16px rgba(255, 168, 227, 1);
+	margin: 0;
+}
+p{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 12px;
+	font-weight: lighter;
+	background-color: #FBC7EC;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	padding-right: 0px;
+	line-height: 14px;
+	color: #591F06;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+.subtitle{
+	font-family: 'Concert One', cursive;
+	font-size: 25px;
+	font-weight: lighter;
+	background-color: #FBC7EC;
+	padding-top: 30px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	line-height: 0px;
+	font-weight: bold;
+	border-radius: 25px;
+	color: white;
+	padding-right: 10px;
+}
