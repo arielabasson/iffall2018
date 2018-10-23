@@ -1,0 +1,69 @@
+body{
+	background-color: #351a0e;
+}
+.maintitle{
+	background-image: url(images/brownies.jpg);
+	background-repeat: no-repeat;
+    background-position: right;
+    background-size: 250%;
+	font-size: 36px;
+	margin-top:40px;
+	color: #f47fa9;
+	text-align: center;
+	padding-left: 13px;
+	padding-right: 0px;
+	padding-bottom: 60px;
+	padding-top: 60px;
+	display: block;
+	font-family: 'Bree Serif', serif;
+}
+div{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+	font-weight: lighter;
+	padding-left: 13px;
+	padding-right: 13px;
+	line-height: 25px;
+	color: #FBC7EC;
+	font-family: 'Roboto Condensed', sans-serif;
+
+}
+p{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+	font-weight: lighter;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 13px;
+	padding-right: 13px;
+	line-height: 25px;
+	color: #FBC7EC;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+.subtitle{
+	font-family: 'Bree Serif', serif;
+	font-size: 25px;
+	font-weight: lighter;
+	padding-top: 30px;
+	padding-bottom: 10px;
+	padding-left: 13px;
+	line-height: 0px;
+	font-weight: bold;
+	border-radius: 25px;
+	color: white;
+	padding-right: 13px;
+}
+.why{
+	font-family: 'Bree Serif', serif;
+	font-size: 25px;
+	font-weight: lighter;
+	padding-top: 30px;
+	padding-bottom: 10px;
+	padding-left: 13px;
+	line-height: 0px;
+	font-weight: bold;
+	border-radius: 25px;
+	color: white;
+	padding-right: 13px;
+}
+}
