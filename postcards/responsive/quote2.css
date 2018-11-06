@@ -1,0 +1,75 @@
+a{
+	display: block; 
+	position: fixed; 
+	top: 0;
+	bottom: 0; 
+	left: 0; 
+	right: 0;  
+	z-index: 100; 
+}
+html{
+	height: 100%;
+}
+body{
+	font-family: 'Fjalla One', sans-serif;
+	height: 100%;
+	font-size: 18px;
+	margin: 0;
+	background-image: url(images/quote2.jpg);
+	background-size: cover;
+	background-position: center center;
+	background-repeat: no-repeat;
+}
+div{
+	
+}
+.quote{
+	width: 300px;
+	position: absolute;
+	margin-left: 2em;
+	margin-bottom: 35em;
+	bottom: 0;
+	color: white;
+	max-width: 85%;
+	text-shadow: 2px 2px 5px rgba(150, 150, 150, 1);
+}
+.quote1{
+	font-size: 1.0em;
+}
+.attribution{
+	margin-top: .5em;
+	font-size: 1.1em;
+	text-align: left;
+	font-style: italic;
+}
+
+@media(min-width: 400px){
+	.quote1{
+		font-size: 1.2em;
+	}
+	
+}
+
+@media (min-width: 600px){
+	.quote{
+		line-height: 2.2em;
+		width: 250px;
+	}
+	.quote1{
+		font-size: 1.5em;
+	}
+	.attribution{
+		margin-top: .2em;
+	}
+}
+@media(max-width: 600px){
+	.quote{
+		margin-bottom: 35em;
+		width: 300px;
+	}
+@media(max-width: 375px){
+	.quote{
+		margin-bottom: 30em;
+		width: 300px;
+	}
+}

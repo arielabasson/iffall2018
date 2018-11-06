@@ -1,0 +1,10 @@
+.quote1horizontal{
+	font-family: helvetica;
+	position: absolute;
+	right: 1em;
+	bottom: 70%;
+	color: #fff;
+	max-width: 85%;
+	text-shadow: 0 2px 10px rgba(0,0,0,0.5);
+}
+	
